@@ -1,6 +1,6 @@
 #da02_term_munic.geojson
 
-*Nombre*: Término municipal de Córdoba
+**Nombre**: Término municipal de Córdoba
 
 *Descripción*: Término municipal de córdoba obtenidode la capa de municipios de Andalucía del DERA
 
