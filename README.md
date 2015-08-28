@@ -16,7 +16,7 @@
 - ETRS89 UTM30N
 - ED50
 - ED50 UTM30N
-- 
+
 ## Descripción de las capas
 
 Para una mejor comprensión de los datos y un correcto uso, capa capa deberá ir acompañada de un archivo en formato md o txt con sus descripción. El archivo se llamará igual que la capa pero con el sufijo "_metadatos" (ej. "da02_term_munic_metadatos.md").
