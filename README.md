@@ -7,7 +7,7 @@
 ## Formatos
 - **GeoJSON**
 - **CSV**
-- 
+
 ...
 
 ## Sistemas de Referencia de Coordenadas
